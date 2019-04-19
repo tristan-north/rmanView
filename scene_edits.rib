@@ -1,0 +1,3635 @@
+##RenderMan RIB
+##streammarkermoveMarker0
+version 3.04
+EditBegin "option" 
+Translate 0 0 4
+Rotate -0.5 1 0 0
+Rotate 0 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker1
+EditBegin "option" 
+Translate 0 0 4
+Rotate -1 1 0 0
+Rotate 0 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker2
+EditBegin "option" 
+Translate 0 0 4
+Rotate -1.5 1 0 0
+Rotate 0 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker3
+EditBegin "option" 
+Translate 0 0 4
+Rotate -2.5 1 0 0
+Rotate 0 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker4
+EditBegin "option" 
+Translate 0 0 4
+Rotate -4 1 0 0
+Rotate 0.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker5
+EditBegin "option" 
+Translate 0 0 4
+Rotate -5.5 1 0 0
+Rotate 1 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker6
+EditBegin "option" 
+Translate 0 0 4
+Rotate -7.5 1 0 0
+Rotate 2 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker7
+EditBegin "option" 
+Translate 0 0 4
+Rotate -9.5 1 0 0
+Rotate 3 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker8
+EditBegin "option" 
+Translate 0 0 4
+Rotate -11.5 1 0 0
+Rotate 4 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker9
+EditBegin "option" 
+Translate 0 0 4
+Rotate -13 1 0 0
+Rotate 4 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker10
+EditBegin "option" 
+Translate 0 0 4
+Rotate -14.5 1 0 0
+Rotate 5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker11
+EditBegin "option" 
+Translate 0 0 4
+Rotate -15.5 1 0 0
+Rotate 6 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker12
+EditBegin "option" 
+Translate 0 0 4
+Rotate -17 1 0 0
+Rotate 7 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker13
+EditBegin "option" 
+Translate 0 0 4
+Rotate -18 1 0 0
+Rotate 7.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker14
+EditBegin "option" 
+Translate 0 0 4
+Rotate -19.5 1 0 0
+Rotate 9.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker15
+EditBegin "option" 
+Translate 0 0 4
+Rotate -20 1 0 0
+Rotate 10.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker16
+EditBegin "option" 
+Translate 0 0 4
+Rotate -21 1 0 0
+Rotate 11.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker17
+EditBegin "option" 
+Translate 0 0 4
+Rotate -21 1 0 0
+Rotate 12 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker18
+EditBegin "option" 
+Translate 0 0 4
+Rotate -21.5 1 0 0
+Rotate 12.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker19
+EditBegin "option" 
+Translate 0 0 4
+Rotate -21.5 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker20
+EditBegin "option" 
+Translate 0 0 4
+Rotate -22 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker21
+EditBegin "option" 
+Translate 0 0 4
+Rotate -22 1 0 0
+Rotate 13.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker22
+EditBegin "option" 
+Translate 0 0 4
+Rotate -21.5 1 0 0
+Rotate 13.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker23
+EditBegin "option" 
+Translate 0 0 4
+Rotate -21 1 0 0
+Rotate 13.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker24
+EditBegin "option" 
+Translate 0 0 4
+Rotate -20.5 1 0 0
+Rotate 13.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker25
+EditBegin "option" 
+Translate 0 0 4
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker26
+EditBegin "option" 
+Translate 0 0 4.016
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker27
+EditBegin "option" 
+Translate 0 0 4.048
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker28
+EditBegin "option" 
+Translate 0 0 4.096
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker29
+EditBegin "option" 
+Translate 0 0 4.144
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker30
+EditBegin "option" 
+Translate 0 0 4.24
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker31
+EditBegin "option" 
+Translate 0 0 4.328
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker32
+EditBegin "option" 
+Translate 0 0 4.432
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker33
+EditBegin "option" 
+Translate 0 0 4.536
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker34
+EditBegin "option" 
+Translate 0 0 4.648
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker35
+EditBegin "option" 
+Translate 0 0 4.728
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker36
+EditBegin "option" 
+Translate 0 0 4.824
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker37
+EditBegin "option" 
+Translate 0 0 4.936
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker38
+EditBegin "option" 
+Translate 0 0 4.992
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker39
+EditBegin "option" 
+Translate 0 0 5.072
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker40
+EditBegin "option" 
+Translate 0 0 5.144
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker41
+EditBegin "option" 
+Translate 0 0 5.208
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker42
+EditBegin "option" 
+Translate 0 0 5.296
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker43
+EditBegin "option" 
+Translate 0 0 5.376
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker44
+EditBegin "option" 
+Translate 0 0 5.44
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker45
+EditBegin "option" 
+Translate 0 0 5.504
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker46
+EditBegin "option" 
+Translate 0 0 5.56
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker47
+EditBegin "option" 
+Translate 0 0 5.608
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker48
+EditBegin "option" 
+Translate 0 0 5.64
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker49
+EditBegin "option" 
+Translate 0 0 5.648
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker50
+EditBegin "option" 
+Translate 0 0 5.656
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker51
+EditBegin "option" 
+Translate 0 0 5.664
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker52
+EditBegin "option" 
+Translate 0 0 5.68
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker53
+EditBegin "option" 
+Translate 0 0 5.712
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker54
+EditBegin "option" 
+Translate 0 0 5.792
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker55
+EditBegin "option" 
+Translate 0 0 5.856
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker56
+EditBegin "option" 
+Translate 0 0 5.928
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker57
+EditBegin "option" 
+Translate 0 0 6.016
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker58
+EditBegin "option" 
+Translate 0 0 6.128
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker59
+EditBegin "option" 
+Translate 0 0 6.232
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker60
+EditBegin "option" 
+Translate 0 0 6.336
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker61
+EditBegin "option" 
+Translate 0 0 6.448
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker62
+EditBegin "option" 
+Translate 0 0 6.616
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker63
+EditBegin "option" 
+Translate 0 0 6.808
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker64
+EditBegin "option" 
+Translate 0 0 6.976
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker65
+EditBegin "option" 
+Translate 0 0 7.208
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker66
+EditBegin "option" 
+Translate 0 0 7.392
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker67
+EditBegin "option" 
+Translate 0 0 7.6
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker68
+EditBegin "option" 
+Translate 0 0 7.736
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker69
+EditBegin "option" 
+Translate 0 0 7.84
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker70
+EditBegin "option" 
+Translate 0 0 7.888
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker71
+EditBegin "option" 
+Translate 0 0 7.904
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker72
+EditBegin "option" 
+Translate 0 0 7.896
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker73
+EditBegin "option" 
+Translate 0 0 8.008
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker74
+EditBegin "option" 
+Translate 0 0 8.128
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker75
+EditBegin "option" 
+Translate 0 0 8.264
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker76
+EditBegin "option" 
+Translate 0 0 8.44
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker77
+EditBegin "option" 
+Translate 0 0 8.632
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker78
+EditBegin "option" 
+Translate 0 0 8.896
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker79
+EditBegin "option" 
+Translate 0 0 9.144
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker80
+EditBegin "option" 
+Translate 0 0 9.456
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker81
+EditBegin "option" 
+Translate 0 0 9.688
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker82
+EditBegin "option" 
+Translate 0 0 9.928
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker83
+EditBegin "option" 
+Translate 0 0 10.208
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker84
+EditBegin "option" 
+Translate 0 0 10.408
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker85
+EditBegin "option" 
+Translate 0 0 10.6
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker86
+EditBegin "option" 
+Translate 0 0 10.768
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker87
+EditBegin "option" 
+Translate 0 0 10.928
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker88
+EditBegin "option" 
+Translate 0 0 11.08
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker89
+EditBegin "option" 
+Translate 0 0 11.168
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker90
+EditBegin "option" 
+Translate 0 0 11.232
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker91
+EditBegin "option" 
+Translate 0 0 11.264
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker92
+EditBegin "option" 
+Translate 0 0 11.296
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker93
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -20 1 0 0
+Rotate 13 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker94
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -20 1 0 0
+Rotate 13.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker95
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -20.5 1 0 0
+Rotate 15 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker96
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -20.5 1 0 0
+Rotate 17 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker97
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -21 1 0 0
+Rotate 19 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker98
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -21.5 1 0 0
+Rotate 23 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker99
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -22.5 1 0 0
+Rotate 27.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker100
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -23.5 1 0 0
+Rotate 33 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker101
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -24.5 1 0 0
+Rotate 39.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker102
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -26 1 0 0
+Rotate 49.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker103
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -27.5 1 0 0
+Rotate 58 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker104
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -28.5 1 0 0
+Rotate 67 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker105
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -29 1 0 0
+Rotate 76.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker106
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -30 1 0 0
+Rotate 87.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker107
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -30.5 1 0 0
+Rotate 95.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker108
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -31 1 0 0
+Rotate 104 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker109
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -31 1 0 0
+Rotate 112 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker110
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -31.5 1 0 0
+Rotate 120 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker111
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32 1 0 0
+Rotate 129 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker112
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32 1 0 0
+Rotate 136 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker113
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32.5 1 0 0
+Rotate 143 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker114
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32.5 1 0 0
+Rotate 150 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker115
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32.5 1 0 0
+Rotate 157 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker116
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32.5 1 0 0
+Rotate 163.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker117
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32.5 1 0 0
+Rotate 172 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker118
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32.5 1 0 0
+Rotate 177.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker119
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32.5 1 0 0
+Rotate 183.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker120
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -32.5 1 0 0
+Rotate 188.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker121
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 193.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker122
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 199 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker123
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 204 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker124
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 208 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker125
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 211.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker126
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 216.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker127
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 219.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker128
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 224 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker129
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 232.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker130
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33 1 0 0
+Rotate 236.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker131
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 241.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker132
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 244.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker133
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 246 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker134
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 247 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker135
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 246.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker136
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 246 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker137
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 245.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker138
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 244 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker139
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 242.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker140
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 241 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker141
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 239.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker142
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 237 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker143
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 235.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker144
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 233.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker145
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 231 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker146
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 229 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker147
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 225.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker148
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 224 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker149
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -33.5 1 0 0
+Rotate 222 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker150
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -34 1 0 0
+Rotate 220 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker151
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -34 1 0 0
+Rotate 219 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker152
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -34.5 1 0 0
+Rotate 218 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker153
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -35 1 0 0
+Rotate 216.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker154
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -35 1 0 0
+Rotate 215 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker155
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -35.5 1 0 0
+Rotate 214 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker156
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -36 1 0 0
+Rotate 212.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker157
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -36 1 0 0
+Rotate 212 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker158
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -36 1 0 0
+Rotate 211.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker159
+EditBegin "option" 
+Translate 0 0 11.312
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker160
+EditBegin "option" 
+Translate 0 0 11.32
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker161
+EditBegin "option" 
+Translate 0 0 11.344
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker162
+EditBegin "option" 
+Translate 0 0 11.392
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker163
+EditBegin "option" 
+Translate 0 0 11.456
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker164
+EditBegin "option" 
+Translate 0 0 11.544
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker165
+EditBegin "option" 
+Translate 0 0 11.608
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker166
+EditBegin "option" 
+Translate 0 0 11.688
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker167
+EditBegin "option" 
+Translate 0 0 11.768
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker168
+EditBegin "option" 
+Translate 0 0 11.848
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker169
+EditBegin "option" 
+Translate 0 0 11.944
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker170
+EditBegin "option" 
+Translate 0 0 12
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker171
+EditBegin "option" 
+Translate 0 0 12.064
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker172
+EditBegin "option" 
+Translate 0 0 12.12
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker173
+EditBegin "option" 
+Translate 0 0 12.144
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker174
+EditBegin "option" 
+Translate 0 0 12.168
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker175
+EditBegin "option" 
+Translate 0 0 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker176
+EditBegin "option" 
+Translate 0 -0.012 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker177
+EditBegin "option" 
+Translate -0.004 -0.028 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker178
+EditBegin "option" 
+Translate -0.012 -0.044 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker179
+EditBegin "option" 
+Translate -0.012 -0.056 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker180
+EditBegin "option" 
+Translate -0.016 -0.072 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker181
+EditBegin "option" 
+Translate -0.02 -0.088 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker182
+EditBegin "option" 
+Translate -0.028 -0.104 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker183
+EditBegin "option" 
+Translate -0.032 -0.12 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker184
+EditBegin "option" 
+Translate -0.036 -0.132 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker185
+EditBegin "option" 
+Translate -0.044 -0.148 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker186
+EditBegin "option" 
+Translate -0.056 -0.172 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker187
+EditBegin "option" 
+Translate -0.064 -0.196 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker188
+EditBegin "option" 
+Translate -0.076 -0.22 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker189
+EditBegin "option" 
+Translate -0.088 -0.248 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker190
+EditBegin "option" 
+Translate -0.1 -0.268 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker191
+EditBegin "option" 
+Translate -0.112 -0.292 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker192
+EditBegin "option" 
+Translate -0.124 -0.308 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker193
+EditBegin "option" 
+Translate -0.128 -0.32 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker194
+EditBegin "option" 
+Translate -0.136 -0.328 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker195
+EditBegin "option" 
+Translate -0.14 -0.34 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker196
+EditBegin "option" 
+Translate -0.148 -0.352 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker197
+EditBegin "option" 
+Translate -0.152 -0.36 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker198
+EditBegin "option" 
+Translate -0.156 -0.372 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker199
+EditBegin "option" 
+Translate -0.156 -0.38 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker200
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36 1 0 0
+Rotate 211 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker201
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36 1 0 0
+Rotate 210.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker202
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36 1 0 0
+Rotate 209.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker203
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36 1 0 0
+Rotate 208.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker204
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 207.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker205
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate 206 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker206
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 205 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker207
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 204 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker208
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 203.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker209
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 203 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker210
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 202.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker211
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 201.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker212
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 201 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker213
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 200.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker214
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 199.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker215
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 198.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker216
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 197 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker217
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 196 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker218
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 195 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker219
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 194 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker220
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate 193.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker221
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate 192.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker222
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate 192 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker223
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate 191.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker224
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 190.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker225
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 189.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker226
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 188 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker227
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 187 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker228
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 186 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker229
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 185 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker230
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 184 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker231
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 183.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker232
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 182 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker233
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 181 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker234
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 179.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker235
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 178 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker236
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 176.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker237
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 175 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker238
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate 173.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker239
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate 172.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker240
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate 171 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker241
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate 170 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker242
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate 168.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker243
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 167 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker244
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate 165 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker245
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate 164 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker246
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate 163 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker247
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate 162.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker248
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate 162 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker249
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate 161.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker250
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate 161 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker251
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate 160.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker252
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate 160 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker253
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate 159.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker254
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -33.5 1 0 0
+Rotate 159.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker255
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -33.5 1 0 0
+Rotate 159 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker256
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -33 1 0 0
+Rotate 159 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker257
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -33 1 0 0
+Rotate 158.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker258
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -32.5 1 0 0
+Rotate 158.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker259
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -32 1 0 0
+Rotate 158.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker260
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -32 1 0 0
+Rotate 158 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker261
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -31.5 1 0 0
+Rotate 158 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker262
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -31 1 0 0
+Rotate 158 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker263
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -31 1 0 0
+Rotate 157.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker264
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30.5 1 0 0
+Rotate 157.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker265
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30 1 0 0
+Rotate 157.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker266
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -29.5 1 0 0
+Rotate 157.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker267
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30 1 0 0
+Rotate 157.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker268
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30 1 0 0
+Rotate 157 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker269
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30 1 0 0
+Rotate 156.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker270
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30 1 0 0
+Rotate 155 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker271
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30.5 1 0 0
+Rotate 153.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker272
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30.5 1 0 0
+Rotate 151.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker273
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30.5 1 0 0
+Rotate 149 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker274
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30.5 1 0 0
+Rotate 146 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker275
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30.5 1 0 0
+Rotate 142.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker276
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30 1 0 0
+Rotate 139.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker277
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30 1 0 0
+Rotate 136 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker278
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -29.5 1 0 0
+Rotate 131.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker279
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -29 1 0 0
+Rotate 126.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker280
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -29 1 0 0
+Rotate 122 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker281
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -28.5 1 0 0
+Rotate 117 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker282
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -28 1 0 0
+Rotate 111.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker283
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -27.5 1 0 0
+Rotate 106.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker284
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -27 1 0 0
+Rotate 100 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker285
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -26 1 0 0
+Rotate 94.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker286
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -25 1 0 0
+Rotate 83.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker287
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -24 1 0 0
+Rotate 78 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker288
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -23 1 0 0
+Rotate 71 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker289
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -22.5 1 0 0
+Rotate 65.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker290
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -21.5 1 0 0
+Rotate 61 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker291
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -21 1 0 0
+Rotate 56.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker292
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -20 1 0 0
+Rotate 52 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker293
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -19.5 1 0 0
+Rotate 48 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker294
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -19 1 0 0
+Rotate 45 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker295
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate 43 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker296
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate 41 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker297
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate 39.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker298
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate 38 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker299
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate 36.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker300
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate 35.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker301
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate 34.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker302
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate 33 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker303
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 32 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker304
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 30.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker305
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 29 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker306
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 26.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker307
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 24 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker308
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 22.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker309
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 20 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker310
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 15 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker311
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 12.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker312
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 11 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker313
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 9 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker314
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 7 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker315
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate 4.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker316
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate 2 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker317
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate -0.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker318
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate -3.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker319
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate -6.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker320
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate -9.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker321
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate -11.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker322
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate -13.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker323
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate -16 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker324
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate -18 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker325
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate -20 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker326
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -22.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker327
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -24.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker328
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -28.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker329
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -33 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker330
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -35.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker331
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -38 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker332
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -41 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker333
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -43.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker334
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -46.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker335
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -48.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker336
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -51 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker337
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -53.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker338
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate -56.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker339
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate -62.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker340
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate -65.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker341
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate -68.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker342
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate -71.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker343
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate -74 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker344
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate -76.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker345
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate -78.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker346
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate -81 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker347
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate -83 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker348
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate -84.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker349
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate -86 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker350
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -87 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker351
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -88 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker352
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -91 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker353
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -94 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker354
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -99 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker355
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -103 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker356
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -109 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker357
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -114 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker358
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -119 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker359
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -124.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker360
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -130 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker361
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -136 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker362
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -143.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker363
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -157 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker364
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -171.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker365
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16 1 0 0
+Rotate -178.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker366
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16 1 0 0
+Rotate -185.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker367
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -195 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker368
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -200.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker369
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -205 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker370
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -209.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker371
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -214.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker372
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -216 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker373
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -217.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker374
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -219 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker375
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -220 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker376
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -220.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker377
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -222 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker378
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -223 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker379
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -224.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker380
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -226 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker381
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -227.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker382
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -229 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker383
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -230.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker384
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -232.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker385
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -234.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker386
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -236.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker387
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -238.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker388
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -243.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker389
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -246 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker390
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -248.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker391
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -251.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker392
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -254.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker393
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -257.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker394
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -259.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker395
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -261 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker396
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -262.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker397
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -263 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker398
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -263.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker399
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -264 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker400
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -264.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker401
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -15.5 1 0 0
+Rotate -265 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker402
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16 1 0 0
+Rotate -265 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker403
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16 1 0 0
+Rotate -265.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker404
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16 1 0 0
+Rotate -266 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker405
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -266 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker406
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -266.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker407
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -16.5 1 0 0
+Rotate -267 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker408
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate -267 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker409
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17 1 0 0
+Rotate -267.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker410
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -17.5 1 0 0
+Rotate -268 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker411
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18 1 0 0
+Rotate -269 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker412
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -18.5 1 0 0
+Rotate -269.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker413
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -19.5 1 0 0
+Rotate -270.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker414
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -21 1 0 0
+Rotate -272 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker415
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -22 1 0 0
+Rotate -272.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker416
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -22.5 1 0 0
+Rotate -273.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker417
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -23 1 0 0
+Rotate -274 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker418
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -23.5 1 0 0
+Rotate -274.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker419
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -24.5 1 0 0
+Rotate -275 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker420
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -24.5 1 0 0
+Rotate -275.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker421
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -25 1 0 0
+Rotate -275.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker422
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -25.5 1 0 0
+Rotate -276 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker423
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -26 1 0 0
+Rotate -276.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker424
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -26 1 0 0
+Rotate -277 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker425
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -26.5 1 0 0
+Rotate -277 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker426
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -27 1 0 0
+Rotate -277.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker427
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -27.5 1 0 0
+Rotate -278 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker428
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -28 1 0 0
+Rotate -278.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker429
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -28.5 1 0 0
+Rotate -279 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker430
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -29 1 0 0
+Rotate -279 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker431
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30 1 0 0
+Rotate -279.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker432
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -30.5 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker433
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -31 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker434
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -31.5 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker435
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -32 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker436
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -32.5 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker437
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -33 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker438
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -33.5 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker439
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker440
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -34.5 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker441
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker442
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate -280 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker443
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -35.5 1 0 0
+Rotate -279.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker444
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36 1 0 0
+Rotate -279.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker445
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36 1 0 0
+Rotate -279 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker446
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36.5 1 0 0
+Rotate -279 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker447
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36.5 1 0 0
+Rotate -278.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker448
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36.5 1 0 0
+Rotate -278 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker449
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36.5 1 0 0
+Rotate -277.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker450
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36.5 1 0 0
+Rotate -277 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker451
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36.5 1 0 0
+Rotate -276.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker452
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36.5 1 0 0
+Rotate -276 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkermoveMarker453
+EditBegin "option" 
+Translate -0.16 -0.384 12.176
+Rotate -36.5 1 0 0
+Rotate -276.5 0 1 0
+Rotate 0 0 0 1
+Camera "world" 
+EditEnd 
+##streammarkerend

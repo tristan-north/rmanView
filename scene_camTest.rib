@@ -1,0 +1,31 @@
+##RenderMan RIB
+version 3.04
+Format 640 480 1
+Projection "perspective" "fov" [26.9915]
+Display "Output" "x11" "rgba"
+CropWindow 0 1 0 1
+Shutter 0 1
+ShadingRate 1
+PixelSamples 6 6
+LightSource "distantlight" "df905a70-1fa9-11e6-87d9-000c296bc6a3" "to" [0 0 0] "from" [-1 -1 -1]
+#Translate 0 .1 1
+WorldBegin 
+#Surface "plastic" 
+#Color [0.5 0.5 0.9]
+#Polygon "P" [1 1 0 1 -1 0 -1 -1 0 -1 1 0]
+#Color [0.9 0.2 0.2]
+#Polygon "P" [0 1 1 0 1 -1 0 -1 -1 0 -1 1]
+#Color [0.2 0.9 0.2]
+#Polygon "P" [1 0 1 -1 0 1 -1 0 -1 1 0 -1]
+#Surface "matte" 
+#AttributeBegin 
+#Color [1 1 1]
+#Translate 0.5 0.5 0.5
+#Sphere 0.1 -0.1 0.1 360 
+#AttributeEnd 
+AttributeBegin 
+Color [0.9 0.2 0.9]
+Translate 0 0 1
+Sphere 0.1 -0.1 0.1 360 
+AttributeEnd 
+WorldEnd 

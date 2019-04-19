@@ -1,0 +1,30 @@
+##RenderMan RIB
+version 3.04
+Option "searchpath" "string procedural" ["/opt/pixar/RenderManProServer-20.9/etc"]
+Format 1489 801 1
+Projection "perspective" "fov" [26.9915]
+Display "Output" "multires" "rgba" 
+Hider "raytrace" "string integrationmode" ["path"]
+Integrator "PxrPathTracer" "handle" "int maxPathLength" [3] "string sampleMode" ["bxdf"] "int numLightSamples" [4] "int numBxdfSamples" [1] "int numIndirectSamples" [1]
+Translate 0 0 4
+Rotate 0 1 0 0
+Rotate 0 0 1 0
+Rotate 0 0 0 1
+WorldBegin 
+AttributeBegin 
+Rotate 45 0 1 0
+Rotate -45 1 0 0
+Bxdf "PxrLightEmission" "emission" 
+AreaLightSource "PxrStdAreaLight" "39b5ff2e-1a3f-11e7-b735-000c296bc6a3" "float exposure" [10] "string rman__Shape" ["distant"]
+Attribute "visibility" "int camera" [0] "int indirect" [0] "int transmission" [0]
+Geometry "distantlight" "constant float anglesubtended" [3]
+AttributeEnd 
+AttributeBegin 
+ShadingRate 10
+Bxdf "PxrLightEmission" "emissionEnvLgt" 
+Attribute "visibility" "int camera" [0] "int indirect" [0] "int transmission" [0]
+Geometry "envsphere" "constant float[2] resolution" [512 256]
+AttributeEnd 
+Bxdf "PxrDiffuse" "default" 
+Procedural "DynamicLoad" ["AlembicProcPrim.so" "-filename /home/ten/Desktop/testGeo_heavy.abc"] [-100000 100000 -100000 100000 -100000 100000]
+WorldEnd 
